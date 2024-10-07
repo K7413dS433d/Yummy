@@ -5,7 +5,7 @@ import { Validation } from "./validation.js";
 const apiLink = "https://www.themealdb.com/api/json/v1/1/";
 const valid = new Validation();
 const render = new Render();
-const mealDb = new MealDB(apiLink, render);
+const mealDb = new MealDB(apiLink);
 
 //list animation
 function listToggler(up, transitionTime) {
