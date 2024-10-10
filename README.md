@@ -28,7 +28,7 @@
 ## Live Demo
 
 Check out the live version of the website here:  
-[Yummy Live Demo](https://yummy-website-nu.vercel.app/)
+[Yummy Live Demo](https://yummy-liard.vercel.app/)
 
 ## API
 
