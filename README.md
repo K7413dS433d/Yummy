@@ -39,4 +39,4 @@ The website uses TheMealDB API to fetch meal details and related information. Yo
 
 You can find a quick video overview of the project here:  
 
-https://github.com/user-attachments/assets/ee4b931d-9ddc-48f1-a868-9c6176bb74e6
+https://github.com/user-attachments/assets/436a3be8-3ce8-4f15-84c4-e4a554b2ff42
